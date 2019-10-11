@@ -18,7 +18,7 @@ body {
 }
 
 .padding{
-
+    background-color: white;
     padding: 18px;
 }
 
@@ -100,4 +100,21 @@ float: left;
     background-color: #666666; 
    height: 7px;
 
+  }
+
+  .first{
+    float:left;
+    padding: 50px;
+    background-color: blue;
+    height: 100px;
+    width:100px;
+
+  }
+
+  .second{
+    float:left;
+    background-color: red;
+    padding: 50px;
+    height:100px;
+    width: 100px;
   }
